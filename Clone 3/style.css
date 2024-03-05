@@ -1,0 +1,27 @@
+.box{
+    width:300px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 100px auto;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+.box-img{
+    width: 100%;
+} 
+p{
+    font-size: 1.2rem;
+    color: rgb(88, 86, 86);
+    font-weight: 600;
+}
+.btn{
+    padding: 10px 40px;
+    font-size: 1.2rem;
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    color: rgb(83, 83, 241);
+    
+
+}
